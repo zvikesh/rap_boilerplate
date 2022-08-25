@@ -7,7 +7,7 @@
     serviceQuality: #A,         //ABAP
     sizeCategory: #L,           //10 Million
     dataClass: #TRANSACTIONAL   //ABAP
-}  
+}
 define view entity ZVKS_I_AgencyBasic
   as select from zvks_agency as Agency
 {
