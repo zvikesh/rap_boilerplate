@@ -1,2 +1,2 @@
-# rap_boilerplate
+# RAP_BOILERPLATE
 RAP Boilerplate Git Repository 
